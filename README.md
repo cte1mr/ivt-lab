@@ -1,3 +1,3 @@
 # ivt-lab
 
-it is about change ~ Dolores
+It is about change, seems to be a common theme ~ Dolores
