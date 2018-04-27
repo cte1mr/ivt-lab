@@ -101,7 +101,7 @@ public class GT4500 implements SpaceShip {
 
                     // if both of the stores are empty, nothing can be done, return failure
                 }
-             }
+             
         }
 
         return firingSuccess;
